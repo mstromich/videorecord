@@ -7,10 +7,10 @@
   "min_motion_frames": 12,
   "camera_warmup_time": 2.5,
   "delta_thresh": 5,
-  "resolution": [1024, 768],
+  "resolution": [320, 240],
   "fps": 20,
   "min_area": 500,
   "userDir": "/Path/to/user",
-  "resizeWidth": 500,
-  "nonMotionTimer": 500
+  "resizeWidth": 900,
+  "nonMotionTimer": 100
 }

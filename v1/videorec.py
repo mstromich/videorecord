@@ -16,7 +16,7 @@ print("[INFO] Kicking off script - " +
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-c", "--conf", required=True,
-                help="path to the JSON configuration file")
+                help="/Users/michalstromich/PycharmProjects/videorecord/v1/config.json")
 args = vars(ap.parse_args())
 
 # filter warnings, load the configuration
